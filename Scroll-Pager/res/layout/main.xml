@@ -17,19 +17,22 @@
         android:layout_width="fill_parent"
         android:layout_height="300dip"
         android:text="First Content."
-        android:textSize="50dip"/>
+        android:textSize="50dip"
+        android:background="#FF0000"/>
       
       <TextView
         android:layout_width="fill_parent"
         android:layout_height="300dip"
         android:text="Second Content."
-        android:textSize="50dip"/>
+        android:textSize="50dip"
+        android:background="#00FF00"/>
       
       <TextView
         android:layout_width="fill_parent"
         android:layout_height="300dip"
         android:text="Third Content."
-        android:textSize="50dip"/>
+        android:textSize="50dip"
+        android:background="#0000FF"/>
 
     </LinearLayout>
 </ScrollView>
